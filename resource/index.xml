@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aurreum</title>
+    <link>https://www.aurreum.com/resource/</link>
+    <description>Recent content on Aurreum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.aurreum.com/resource/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>001-adps</title>
+      <link>https://www.aurreum.com/resource/001-adps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/001-adps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>002-adps-demo</title>
+      <link>https://www.aurreum.com/resource/002-adps-demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/002-adps-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>003-adpa-ds</title>
+      <link>https://www.aurreum.com/resource/003-adpa-ds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/003-adpa-ds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>004-adpa-white-paper</title>
+      <link>https://www.aurreum.com/resource/004-adpa-white-paper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/004-adpa-white-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>005-adps-agent-install</title>
+      <link>https://www.aurreum.com/resource/005-adps-agent-install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/005-adps-agent-install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>006-adps-oracle</title>
+      <link>https://www.aurreum.com/resource/006-adps-oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/006-adps-oracle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>007-adps-mysql</title>
+      <link>https://www.aurreum.com/resource/007-adps-mysql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/007-adps-mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>008-adps-sql-server</title>
+      <link>https://www.aurreum.com/resource/008-adps-sql-server/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/008-adps-sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>009-adps-file</title>
+      <link>https://www.aurreum.com/resource/009-adps-file/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/009-adps-file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>010-adps-vmware</title>
+      <link>https://www.aurreum.com/resource/010-adps-vmware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/010-adps-vmware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>011-adps-administrator</title>
+      <link>https://www.aurreum.com/resource/011-adps-administrator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/011-adps-administrator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>012-adps-install</title>
+      <link>https://www.aurreum.com/resource/012-adps-install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/012-adps-install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>013-adps-hyper-v</title>
+      <link>https://www.aurreum.com/resource/013-adps-hyper-v/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/013-adps-hyper-v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>014-adps-postgresql</title>
+      <link>https://www.aurreum.com/resource/014-adps-postgresql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/014-adps-postgresql/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

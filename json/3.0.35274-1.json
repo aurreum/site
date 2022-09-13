@@ -1,0 +1,226 @@
+[
+    {
+        "name": "adps-server-centos7.x-aarch64.zip",
+        "size": "207.08 MiB",
+        "md5_sum": "1ede8d5b0e5e2d1b43216814a7d7ba66",
+        "sha1_sum": "06fc6e9fb191c804ef8d16d0c09d14569d7f215e",
+        "sha256_sum": "ed0233698fd7b32efa7971bb8992ad837e22ed7ec2bb5f4a447d21ece665611b"
+    },
+    {
+        "name": "adps-server-centos7.x-x86_64.zip",
+        "size": "264.16 MiB",
+        "md5_sum": "6f2ceccd6ebe50b2d293a16fbbf7becc",
+        "sha1_sum": "0ffeb66207fe6c4039378aca18fdf5ef67fa8eeb",
+        "sha256_sum": "4f61312d9504a9c66126a97919e6172e6e855aed92eca752d467ac84546e9db7"
+    },
+    {
+        "name": "adps-server-ubuntu18.04-amd64.zip",
+        "size": "307.95 MiB",
+        "md5_sum": "12625582a1017270ec33aca0cef6dedd",
+        "sha1_sum": "49ff4b4e706fa11c80d47da56c88121f45afdca5",
+        "sha256_sum": "2b80d0284a06d214606ea755c729e435a1c6206e647d94dd9b8e1d9c8d676b46"
+    },
+    {
+        "name": "adps-server-ubuntu18.04-arm64.zip",
+        "size": "286.45 MiB",
+        "md5_sum": "f057623bf5ec6d503ed5acc0b559b21b",
+        "sha1_sum": "3cfd561a228b71f7980dae92ca2148269d368543",
+        "sha256_sum": "51effc2fcb8d0454d6ea30e1c4d2a2fc8c58fcd76da5983f33ee8b63d3cf0b6e"
+    },
+    {
+        "name": "adps-tools-linux.zip",
+        "size": "489.02 MiB",
+        "md5_sum": "1dfcb82ebc286d48e5978d258a4405b7",
+        "sha1_sum": "0437c5778d67833ff6496f3cd67ef8febc937843",
+        "sha256_sum": "9829b5c9b9b4ac58a0b54a56e5d4e9a5050a5ea0c8b2ab49b5d16d31c40d8aae"
+    },
+    {
+        "name": "adps-agent-aix_rpm_ppc.zip",
+        "size": "125.39 MiB",
+        "md5_sum": "b504caf8418c0d72fa55f25eb3dddbd6",
+        "sha1_sum": "5bf99aa2227ca37c6afa5de65438bdff305d5757",
+        "sha256_sum": "a3bf5d563b6afdccaf83da27be2a6eec929a8c84da766f82212d4c4a4dad9561"
+    },
+    {
+        "name": "adps-agent-aix_rpm_ppc64.zip",
+        "size": "126.85 MiB",
+        "md5_sum": "1ffb3dc2bee6d95dfbdf45a1054f2a14",
+        "sha1_sum": "31b29b3151b7b3d2c7684d70904adf595562c8cb",
+        "sha256_sum": "55d2f0fc288643135d3cf83ceb910c01d96b70de208374a125b67ab8e56b1815"
+    },
+    {
+        "name": "adps-3.0.35274.1.f48708b.dbg-hppa64.depot.gz",
+        "size": "102.72 MiB",
+        "md5_sum": "595efd8d57b86d1ca9461a2ccfd0dc62",
+        "sha1_sum": "e71ef1c773e7bd7f1008067ac6216a470ec213d6",
+        "sha256_sum": "885f8c3dff85c9470d1b666a2a33729acc0b51a927c37c7251782e0bcebb4cc7"
+    },
+    {
+        "name": "adps-3.0.35274.1.f48708b.dbg-ia64.depot.gz",
+        "size": "119.21 MiB",
+        "md5_sum": "5dceed7a86a0ba06dd221d7ec18a2e71",
+        "sha1_sum": "a6c84d0a228e9f4aa5f04295cbd2e433e7badf19",
+        "sha256_sum": "ef64f1b7003871f52e2f320becbb0feec09d1f4c7d4a2258ab4d276b19772dd7"
+    },
+    {
+        "name": "adps-agent-linux_rpm_aarch64.zip",
+        "size": "134.42 MiB",
+        "md5_sum": "c7ea192f703a43a852f2a0cf18a3bf2d",
+        "sha1_sum": "947302364a582b54a1827e269635faaeb8f21861",
+        "sha256_sum": "acee4358a7717b2181c27cb3bb9dc33501eb51f498d4d5fa6c77005e53498741"
+    },
+    {
+        "name": "adps-agent-linux_rpm_ia64.zip",
+        "size": "110.36 MiB",
+        "md5_sum": "381d406989f1b6c10b93bca799842543",
+        "sha1_sum": "f2ad2511f62e134573662dd1d2139216e0ab316f",
+        "sha256_sum": "5dd977364d7e3d82d08469208858a1de6973c02b12951a6d58ce1a68b8a283f3"
+    },
+    {
+        "name": "adps-agent-linux_rpm_i686.zip",
+        "size": "161.8 MiB",
+        "md5_sum": "2d151359582b8ad436b2b697da78072b",
+        "sha1_sum": "559cd17b47989bbf2bde7097b9170816a8ac33ac",
+        "sha256_sum": "ce671fff6de61c729d53741fc6937184acc84ce3d8b133aa79eda7b022732f1b"
+    },
+    {
+        "name": "adps-agent-linux_rpm_ppc64.zip",
+        "size": "149.74 MiB",
+        "md5_sum": "806df7e98fe9781c417c337b31b70d9a",
+        "sha1_sum": "5f84aece6cb9ab35287be92b06667de5801ad658",
+        "sha256_sum": "b482974040be88800596f1698da8c1488ecef3ddde77da8c62a4abe3aa06028d"
+    },
+    {
+        "name": "adps-agent-linux_rpm_ppc.zip",
+        "size": "102.66 MiB",
+        "md5_sum": "f55efeaf5c8586e579e101839c2e50a1",
+        "sha1_sum": "48fdee62195bf57b7bfdfb0c2ca24afb9f618fb4",
+        "sha256_sum": "5c69c2c2a851a3efa68b4a973edfdd48b06dd8d4988a3fd414a50aafffc711f5"
+    },
+    {
+        "name": "adps-agent-linux_rpm_ppc64le.zip",
+        "size": "149.81 MiB",
+        "md5_sum": "8543f335ece3eca1328cd65417ea75a2",
+        "sha1_sum": "ea6591fc02e23435a8a0e733d4a6bed1fb8c0bf6",
+        "sha256_sum": "1919f7f18ea40aa0a6b9ccbc446a2c73b03bc9f1635c29416951000ad9c08162"
+    },
+    {
+        "name": "adps-agent-linux_rpm_s390.zip",
+        "size": "101.58 MiB",
+        "md5_sum": "3d5ed62133337980e30e2fb3de80f997",
+        "sha1_sum": "6899c571e3e40910b20bb9c1944d12c089f326d8",
+        "sha256_sum": "487bad9e7488b3e5acd6993cbe5c98179a63c308806b232bc3091984b988cbc4"
+    },
+    {
+        "name": "adps-agent-linux_rpm_x86_64.zip",
+        "size": "167.11 MiB",
+        "md5_sum": "fda0a539b32a86c21ae236d6b539f992",
+        "sha1_sum": "48b5f2c0dfc27d52c7b935b9733008a8d8ee2913",
+        "sha256_sum": "338591e513ebbbcd75b4782d1b626af5cea357247955825b4a0a30c64b85c389"
+    },
+    {
+        "name": "adps-agent-linux_rpm_s390x.zip",
+        "size": "101.74 MiB",
+        "md5_sum": "d1efb9bf0f1dc9bd212a48cc8bcf96b9",
+        "sha1_sum": "bbf5836d29fcf4e5feea3dc49138f611b88a1900",
+        "sha256_sum": "363d14dd73f3875d85cd09223d4d318a92b782c2947e65056d17111ed5557d7e"
+    },
+    {
+        "name": "adps-3.0.35274-1.f48708b.dbg-sol10-i386-local.gz",
+        "size": "141.53 MiB",
+        "md5_sum": "8f4330f08781414442a66008c28cdbf2",
+        "sha1_sum": "76b654fa33c6b749697579970666b2cfc72d902f",
+        "sha256_sum": "b1bda61b420e1f9e8f08754c95ab4976aab2749e3c3675563e86f94db40f601e"
+    },
+    {
+        "name": "adps-3.0.35274-1.f48708b.dbg-sol10-x86_64-local.gz",
+        "size": "142.34 MiB",
+        "md5_sum": "803966bfbd7ac4bc672331a0df0523dd",
+        "sha1_sum": "4e85652a5c8423e225dad64c5868b1f34358c2b9",
+        "sha256_sum": "3c4318d8d152fe231c2e6f704eef419c3aa59972ba2fe0724f79f1522a391821"
+    },
+    {
+        "name": "adps-3.0.35274-1.f48708b.dbg-sol9-sparc-local.gz",
+        "size": "121.88 MiB",
+        "md5_sum": "22bac426991e8f4f918c3c6d9cfa3a36",
+        "sha1_sum": "90226a7d980c9fd6f8c6f68028850b02cb2253e8",
+        "sha256_sum": "db283cc1b470cab277a7e74486db06bcb178cb7ce50d1d7a7448bc5234c8a1fc"
+    },
+    {
+        "name": "adps-3.0.35274-1.f48708b.dbg-sol9-sparc64-local.gz",
+        "size": "124.8 MiB",
+        "md5_sum": "dd78f927762f6beb0e91133b7fdd4bba",
+        "sha1_sum": "70ac668c2d0d1d72fc41f2e5bfa3fbaeaf962ba7",
+        "sha256_sum": "cf3e46d9e0041fd8c1fcbfc5b0c69843f9f7cad6f3d04324df1d84410441542f"
+    },
+    {
+        "name": "adps-agent-linux_deb_amd64.zip",
+        "size": "131.54 MiB",
+        "md5_sum": "4a00cdbe7282c4231bc4c592d304b55d",
+        "sha1_sum": "3bda4dbfbe4c18a263374ab5ba98efa8ab9dce96",
+        "sha256_sum": "7a19148f3adad5a490b6bf24358ef07df3a44b656d2250a7811ca3b371a8cfb5"
+    },
+    {
+        "name": "adps-agent-linux_deb_arm64.zip",
+        "size": "104.2 MiB",
+        "md5_sum": "695e7ab7b9a07f4fc4c0b39d35752319",
+        "sha1_sum": "8516aa455117009921daecbe1d63a37989e80119",
+        "sha256_sum": "17c657979c15f44f806e4d685cd44387c1985ff3fd221f935470d95f896b999c"
+    },
+    {
+        "name": "adps-agent-linux_deb_i686.zip",
+        "size": "128.71 MiB",
+        "md5_sum": "ddc4bb5f6cad88bc96aa903ee0276e19",
+        "sha1_sum": "d05baa5f6ea6db21775f87522f86f8b314d8b211",
+        "sha256_sum": "f410c0f0f95bc58e3f6bfa8822b5252e4414a8bd547a8d518c1ffe115ff6399c"
+    },
+    {
+        "name": "adps_3.0.35274-1.f48708b.dbg.exe",
+        "size": "47.54 MiB",
+        "md5_sum": "eec3131eb917ffdfef59feb95aa0e06a",
+        "sha1_sum": "8cdb01872b13fdcfa8509a02e17641f955a68c78",
+        "sha256_sum": "eac52debc0aa561ccd64f202347a28c171fae6a1adc00e69533a18c0346a92d6"
+    },
+    {
+        "name": "adps_bootable_recovery-3.0.35274.arm64.iso",
+        "size": "151.58 MiB",
+        "md5_sum": "39d9e63e99bf1e9af6ea11e55a157f4e",
+        "sha1_sum": "db7281c4a81c3507e113b0f3f5e0cd745da148f2",
+        "sha256_sum": "c60ca6b78f141d195e35a60dfe7aa976ce8e3b621e8ebdcbfda42d76792079a2"
+    },
+    {
+        "name": "adps_bootable_recovery-3.0.35274~4.4.228.i686.iso",
+        "size": "46.21 MiB",
+        "md5_sum": "db3e7174a25f7996d06352addf030ddd",
+        "sha1_sum": "e24d759520d11efb90a4adf411e115d7b4dd82e9",
+        "sha256_sum": "a1ecbfe2866251e3a20c6c0beb04b4ae805fa2b0dc325efda27284f8e8bc0bed"
+    },
+    {
+        "name": "adps_bootable_recovery-3.0.35274~4.15.18.i686.iso",
+        "size": "46.5 MiB",
+        "md5_sum": "176caacfa84b696caef585a6e6581560",
+        "sha1_sum": "981d377216f8dea366faf6f2acadf44953c16161",
+        "sha256_sum": "7a8fc73d1899e335c41b6b90b787c92caa476b4909d1177f77af8c77184ad893"
+    },
+    {
+        "name": "adps_bootable_recovery-3.0.35274~4.15.18.x86_64.iso",
+        "size": "46.17 MiB",
+        "md5_sum": "e839fcf531abb688b136e427005eaf90",
+        "sha1_sum": "690b62220eb37de9c06513535b5b7ee393c2b196",
+        "sha256_sum": "9f5b9c2d9431467fce1f4cb96fb5f54110974f89df6779def4b220780d19d254"
+    },
+    {
+        "name": "adps_bootable_recovery-3.0.35274~5.0.21.x86_64.iso",
+        "size": "46.39 MiB",
+        "md5_sum": "1d1f352857213f3c37de03ae8e879b29",
+        "sha1_sum": "3f711dae05b726f60bd284ceefc2421031750446",
+        "sha256_sum": "1bb2af109f1f48f49ac759da99803c6d0ef729d95e1cf42bbf81628c9085c31e"
+    },
+    {
+        "name": "adps_bootable_recovery-3.0.35274~4.4.228.x86_64.iso",
+        "size": "45.51 MiB",
+        "md5_sum": "90f7c3326c61622063cc63d8f4814334",
+        "sha1_sum": "24a1c31fe6435534f599194dc979cdbc10e511cb",
+        "sha256_sum": "8e60b82e7e7ad09ea2b46fe43564ac302c3e19dc9dc7931b32fde21f54996316"
+    }
+]

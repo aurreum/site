@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on Aurreum</title>
+    <link>https://www.aurreum.com/products/</link>
+    <description>Recent content in Products on Aurreum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.aurreum.com/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://www.aurreum.com/products/acdps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/products/acdps/</guid>
+      <description>Concerning the data loss of your local computers due to accidents, hardware failures, or human mistakes? Afraid of ransomware attacks? Unease about your cloud data due to the rising number of data center disasters? We get your back. Aurreum provides a managed cloud data protection service for businesses of any size, anywhere, and any time. Backing up your valuable business data in hybrid clouds, Aurreum can quickly bring your IT service online through cloud-based instant recovery.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.aurreum.com/products/adpa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/products/adpa/</guid>
+      <description>From large corporations that colocate their servers in a data center to small businesses that do not even have a server room, Aurreum provides a turnkey data protection solution for businesses of any size.   DEMO   DATE SHEET      Easy Setup Rack the appliance, power up, and within minutes Aurreum data protection suite will be up and running. An intuitive Web-based user interface allows effortless configuration and easy operation.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.aurreum.com/products/adps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/products/adps/</guid>
+      <description>Your ubiquitous data is your most valuable assets. Protect it ! As the most valuable resource for businesses in the interconnected era, data can help a company meaningfully engage with customers, make business decisions, add value to the organization, and better inform product and service development. Losing valuable data may cause the business to flounder and even shutdown. Aurreum Data Protection Suite (ADPS) integrates backup/restore, disaster recovery, replication, Continuous Data Protection (CDP), Copy Data Management (CDM), and Bare Metal Recovery (BMR) into a single unified platform to address the data protection needs of all businesses.</description>
+    </item>
+    
+  </channel>
+</rss>
