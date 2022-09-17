@@ -223,6 +223,7 @@ for (let i = 0; i < list.length; i++) {
 }
 
 //获取json数据并初始化页面
+const baseURL = 'https://repo.aurreum.com'
 const detail = document.querySelector('.download-detail .container')
 const select_system = detail.querySelector('.select-system')
 const select_architecture = detail.querySelector('.select-architecture')
@@ -268,7 +269,7 @@ fetch(`/json/${param_version}.json`, {
             <li class="content-description">File Type: ${file_type}</li>
           </ul>
           <div class="download-button">
-            <button type="button" class="btn text-nowrap button-download" data-href="https://repo.aurreum.com/download/${version}/${operating_system.file_name}">
+            <button type="button" class="btn text-nowrap button-download" data-href="${baseURL}/download/${version}/${operating_system.file_name}">
               DOWNLOAD NOW
             </button>
           </div>
@@ -352,7 +353,7 @@ select_system.addEventListener('change', function (e) {
         <li class="content-description">File Type: ${file_type}</li>
       </ul>
       <div class="download-button">
-        <button type="button" class="btn text-nowrap button-download" data-href="https://repo.aurreum.com/download/${version}/${operating_system.file_name}">
+        <button type="button" class="btn text-nowrap button-download" data-href="${baseURL}/download/${version}/${operating_system.file_name}">
           DOWNLOAD NOW
         </button>
       </div>

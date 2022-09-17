@@ -23,8 +23,13 @@ selectVersion.addEventListener('change', function (e) {
 })
 
 document.addEventListener('click', function (e) {
-  if (e.target.className.indexOf('page-jump') === 0 ) {
-    e.target.href = e.target.dataset.href + '?version=' + version + '&build_number=' + build_number + '&date=' + date + '&key=' + e.target.dataset.key
+  if (e.target.className.indexOf('page-jump') === 0) {
+    var params = new URLSearchParams()
+    params.append('version', version)
+    params.append('build_number', build_number)
+    params.append('date', date)
+    params.append('key', e.target.dataset.key)
+    e.target.href = e.target.dataset.href + '?' + params.toString()
   }
   if (e.target.className.indexOf('click-arrow') === 0) {
     if (e.target.parentElement.dataset.show === 'true') {

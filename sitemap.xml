@@ -49,7 +49,7 @@
   </url><url>
     <loc>https://www.aurreum.com/resource/007-adps-mysql/</loc>
   </url><url>
-    <loc>https://www.aurreum.com/resource/008-adps-sql-server/</loc>
+    <loc>https://www.aurreum.com/resource/008-adps-mssql/</loc>
   </url><url>
     <loc>https://www.aurreum.com/resource/009-adps-file/</loc>
   </url><url>
@@ -61,7 +61,11 @@
   </url><url>
     <loc>https://www.aurreum.com/resource/013-adps-hyper-v/</loc>
   </url><url>
-    <loc>https://www.aurreum.com/resource/014-adps-postgresql/</loc>
+    <loc>https://www.aurreum.com/resource/014-adps-postgres/</loc>
+  </url><url>
+    <loc>https://www.aurreum.com/resource/015-adps-sybase/</loc>
+  </url><url>
+    <loc>https://www.aurreum.com/resource/016-adps-obs/</loc>
   </url><url>
     <loc>https://www.aurreum.com/categories/</loc>
   </url><url>
