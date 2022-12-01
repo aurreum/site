@@ -228,7 +228,7 @@ const detail = document.querySelector('.download-detail .container')
 const select_system = detail.querySelector('.select-system')
 const select_architecture = detail.querySelector('.select-architecture')
 const detail_body = detail.querySelector('.detail-tbody')
-detail.querySelector('.download-category').innerText = list_data.value
+document.querySelector('.download-category').innerText = 'Download ' + list_data.value
 detail.querySelector('.value').innerText = param_date
 select_architecture.add(new Option('All', 'All'))
 var is_default = true
@@ -280,16 +280,16 @@ fetch(`/json/${param_version}.json`, {
           <div class="d-flex">
             <div class="left-more">
               <div class="content-line row">
-                <div class="content-title col-lg-3">Name:</div>
-                <div class="content-text col-lg-9">${operating_system.file_name}</div>
+                <div class="content-title col-lg-4">Name:</div>
+                <div class="content-text col-lg-8">${operating_system.file_name}</div>
               </div>
               <div class="content-line row">
-                <div class="content-title col-lg-3">Release Date:</div>
-                <div class="content-text col-lg-9">${param_date}</div>
+                <div class="content-title col-lg-4">Release Date:</div>
+                <div class="content-text col-lg-8">${param_date}</div>
               </div>
               <div class="content-line row">
-                <div class="content-title col-lg-3">Build Number:</div>
-                <div class="content-text col-lg-9">${param_build_number}</div>
+                <div class="content-title col-lg-4">Build Number:</div>
+                <div class="content-text col-lg-8">${param_build_number}</div>
               </div>
             </div>
             <div class="right-more">
@@ -305,8 +305,8 @@ fetch(`/json/${param_version}.json`, {
                 <div class="content-text col-lg-10">${package_item.sha1_sum}</div>
               </div>
               <div class="content-line row">
-                <div class="content-title col-lg-2 d-flex">SHA256SUM:</div>
-                <div class="content-text col-lg-10 d-flex">${package_item.sha256_sum}</div>
+                <div class="content-title col-lg-2">SHA256SUM:</div>
+                <div class="content-text col-lg-10">${package_item.sha256_sum}</div>
               </div>
             </div>
           </div>
@@ -364,16 +364,16 @@ select_system.addEventListener('change', function (e) {
       <div class="d-flex">
         <div class="left-more">
           <div class="content-line row">
-            <div class="content-title col-lg-3">Name:</div>
-            <div class="content-text col-lg-9">${operating_system.file_name}</div>
+            <div class="content-title col-lg-4">Name:</div>
+            <div class="content-text col-lg-8">${operating_system.file_name}</div>
           </div>
           <div class="content-line row">
-            <div class="content-title col-lg-3">Release Date:</div>
-            <div class="content-text col-lg-9">${param_date}</div>
+            <div class="content-title col-lg-4">Release Date:</div>
+            <div class="content-text col-lg-8">${param_date}</div>
           </div>
           <div class="content-line row">
-            <div class="content-title col-lg-3">Build Number:</div>
-            <div class="content-text col-lg-9">${param_build_number}</div>
+            <div class="content-title col-lg-4">Build Number:</div>
+            <div class="content-text col-lg-8">${param_build_number}</div>
           </div>
         </div>
         <div class="right-more">
@@ -389,8 +389,8 @@ select_system.addEventListener('change', function (e) {
             <div class="content-text col-lg-10">${package_item.sha1_sum}</div>
           </div>
           <div class="content-line row">
-            <div class="content-title col-lg-2 d-flex">SHA256SUM:</div>
-            <div class="content-text col-lg-10 d-flex">${package_item.sha256_sum}</div>
+            <div class="content-title col-lg-2">SHA256SUM:</div>
+            <div class="content-text col-lg-10">${package_item.sha256_sum}</div>
           </div>
         </div>
       </div>
