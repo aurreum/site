@@ -265,7 +265,7 @@ fetch(`/json/${param_version}.json`, {
         <div class="row">
           <ul>
             <li class="content-title">${operating_system.file_title} ${param_version}</li>
-            <li class="content-description">File size: ${parseInt(package_item.size)} MB</li>
+            <li class="content-description">File Size: ${parseInt(package_item.size)} MB</li>
             <li class="content-description">File Type: ${file_type}</li>
           </ul>
           <div class="download-button">
@@ -349,7 +349,7 @@ select_system.addEventListener('change', function (e) {
     <div class="row">
       <ul>
         <li class="content-title">${operating_system.file_title} ${param_version}</li>
-        <li class="content-description">File size: ${parseInt(package_item.size)}MB</li>
+        <li class="content-description">File Size: ${parseInt(package_item.size)}MB</li>
         <li class="content-description">File Type: ${file_type}</li>
       </ul>
       <div class="download-button">

@@ -43,11 +43,11 @@
     </item>
     
     <item>
-      <title>005-adps-agent-install</title>
-      <link>https://www.aurreum.com/resource/005-adps-agent-install/</link>
+      <title>005-adps-agent_install</title>
+      <link>https://www.aurreum.com/resource/005-adps-agent_install/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.aurreum.com/resource/005-adps-agent-install/</guid>
+      <guid>https://www.aurreum.com/resource/005-adps-agent_install/</guid>
       <description></description>
     </item>
     
@@ -147,6 +147,69 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.aurreum.com/resource/016-adps-obs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>017-adps-cachedb</title>
+      <link>https://www.aurreum.com/resource/017-adps-cachedb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/017-adps-cachedb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>018-adps-db2</title>
+      <link>https://www.aurreum.com/resource/018-adps-db2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/018-adps-db2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>019-adps-hana</title>
+      <link>https://www.aurreum.com/resource/019-adps-hana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/019-adps-hana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>020-adps-informix</title>
+      <link>https://www.aurreum.com/resource/020-adps-informix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/020-adps-informix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>021-adps-linux-os</title>
+      <link>https://www.aurreum.com/resource/021-adps-linux-os/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/021-adps-linux-os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>022-adps-mongodb</title>
+      <link>https://www.aurreum.com/resource/022-adps-mongodb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/022-adps-mongodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>023-adps-mariadb</title>
+      <link>https://www.aurreum.com/resource/023-adps-mariadb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/023-adps-mariadb/</guid>
       <description></description>
     </item>
     
