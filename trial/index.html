@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="https://www.aurreum.com/css/style.min.fe237eed3f1d5547fb798cea79a390f9594d568f0ca054184acff10bedd04bb0.css">
   
   
-  <link rel="stylesheet" href="https://www.aurreum.com/css/trial.min.4e002b04a8a3c63d081673af7d1b3c9588a8c4fd8a8dbc5ff6f75cc8293813d0.css">
+  <link rel="stylesheet" href="https://www.aurreum.com/css/trial.min.1142fb9ab656295eadc1a631ad0b740ee1fa564644dcc843da340b71a29b9501.css">
   
 </head>
 <body class="page-trial nk-body body-wider mode-onepage">
@@ -204,7 +204,9 @@
               <div class="field-item">
                 <label class="field-label">State *</label>
                 <div class="field-wrap">
-                  <input name="state" type="text" class="input-bordered required" placeholder="State">
+                  <select name="state" class="select select-state" data-select2-theme="bordered" required>
+                    <option value="">Please select</option>
+                  </select>
                 </div>
               </div>
               <div class="field-item trial-agree">
@@ -229,6 +231,8 @@
     </div>
   </div>
 </section>
+
+<script src="https://cdn.jsdelivr.net/npm/usa-states@0.0.6/index.min.js"></script>
 
 
       </main><footer class="nk-footer bg-theme-dark">
