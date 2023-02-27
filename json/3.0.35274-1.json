@@ -222,5 +222,12 @@
         "md5_sum": "90f7c3326c61622063cc63d8f4814334",
         "sha1_sum": "24a1c31fe6435534f599194dc979cdbc10e511cb",
         "sha256_sum": "8e60b82e7e7ad09ea2b46fe43564ac302c3e19dc9dc7931b32fde21f54996316"
+    },
+    {
+        "name": "ADPS-Autoinstall-Ub18.04-amd64-v1.0.0.iso",
+        "size": "2.7 GB",
+        "md5_sum": "1d1f352857213f3c37de03ae8e879b29",
+        "sha1_sum": "3f711dae05b726f60bd284ceefc2421031750446",
+        "sha256_sum": "1bb2af109f1f48f49ac759da99803c6d0ef729d95e1cf42bbf81628c9085c31e"
     }
 ]
