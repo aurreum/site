@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="https://www.aurreum.com/css/style.min.fe237eed3f1d5547fb798cea79a390f9594d568f0ca054184acff10bedd04bb0.css">
   
   
-  <link rel="stylesheet" href="https://www.aurreum.com/css/trial.min.1142fb9ab656295eadc1a631ad0b740ee1fa564644dcc843da340b71a29b9501.css">
+  <link rel="stylesheet" href="https://www.aurreum.com/css/trial.min.8a483023aca85ce784bd91ac79cdc897deb3407fd19c7a20ba44ebd9c51ac285.css">
   
 </head>
 <body class="page-trial nk-body body-wider mode-onepage">
@@ -150,11 +150,11 @@
               FREE Trial now
               <small class="tc-default">Start your free 30-day trial with Aurreum expert support</small>
             </h5>
-            <form class="trial-form nk-form-submit">
+            <form class="trial-form nk-form-submit validate-form">
               <div class="field-item">
                 <label class="field-label">Company *</label>
                 <div class="field-wrap">
-                  <input name="company" type="text" class="input-bordered required" placeholder="Company">
+                  <input name="company" type="text" maxlength="63" class="input-bordered required" placeholder="Company">
                 </div>
               </div>
               <div class="field-item">
@@ -163,14 +163,14 @@
                   <div class="col-sm-6">
                     <div class="field-item">
                       <div class="field-wrap">
-                        <input name="firstName" type="text" class="input-bordered required" placeholder="First Name">
+                        <input name="firstName" type="text" maxlength="31" class="input-bordered required" placeholder="First Name">
                       </div>
                     </div>
                   </div>
                   <div class="col-sm-6">
                     <div class="field-item">
                       <div class="field-wrap">
-                        <input name="lastName" type="text" class="input-bordered required" placeholder="Last Name">
+                        <input name="lastName" type="text" maxlength="31" class="input-bordered required" placeholder="Last Name">
                       </div>
                     </div>
                   </div>
@@ -179,7 +179,7 @@
               <div class="field-item">
                 <label class="field-label">Email *</label>
                 <div class="field-wrap">
-                  <input name="email" type="email" class="input-bordered required" placeholder="Business Email">
+                  <input name="email" type="email" maxlength="63" class="input-bordered required" placeholder="Business Email">
                 </div>
               </div>
               <div class="field-item">
@@ -188,14 +188,14 @@
                   <div class="col-sm-5">
                     <div class="field-item">
                       <div class="field-wrap">
-                        <input name="area" type="text" class="input-bordered required" placeholder="Area">
+                        <input name="area" type="text" maxlength="20" class="input-bordered required" placeholder="Area">
                       </div>
                     </div>
                   </div>
                   <div class="col-sm-7">
                     <div class="field-item">
                       <div class="field-wrap">
-                        <input name="phone" type="text" class="input-bordered required" placeholder="Phone">
+                        <input name="PHONE" type="text" maxlength="31" class="input-bordered required" placeholder="Phone">
                       </div>
                     </div>
                   </div>
@@ -214,6 +214,11 @@
                 <label for="agree-trial">
                   Yes, I want to receive information about Aurreum products and events, I can unsubscribe at any time.
                 </label>
+              </div>
+              <div class="private-policy">
+                By submitting, you are agreeing to have your personal information managed in accordance with the terms of Aurreum's
+                <a href="/privacy-notice" target="_blank">Privacy Notice</a> and
+                <a href="/user-agreement" target="_blank">User Agreement</a>.
               </div>
               <div class="fail-tips alert-danger text-center">
                 Failed to submit, please try again later.
@@ -272,20 +277,24 @@
           </div><div class="col-lg-4 col-sm-6">
   <div class="wgs wgs-subscribe-form wgs-subscribe-form-s1">
     <h6 class="wgs-title wgs-title-s2 ttc tc-white animated" data-animate="fadeInUp" data-delay=".55">
-      Subscribe to our newsleter</h6>
+      Subscribe to our newsletter</h6>
     <div class="wgs-body">
       <form
         action="https://aurreum.us20.list-manage.com/subscribe/post?u=ae89155e08990f86a0bd5c4c7&amp;id=704fb1fe0b&amp;f_id=003ff5e6f0"
-        method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate nk-form-submit"
+        method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate nk-form-submit validate-subscribe"
         target="_blank" novalidate>
         <div class="field-inline field-inline-s4 animated" data-animate="fadeInUp" data-delay=".65">
           <div class="field-wrap">
             <input class="input-solid round required email bg-theme-alt" type="text" name="EMAIL"
-              placeholder="Enter your email">
+              maxlength="63" placeholder="Enter your email">
           </div>
           <div class="submit-wrap">
             <input type="submit" value="Subscribe" name="subscribe" class="btn btn-round btn-md btn-auto btn-primary">
           </div>
+        </div>
+        <div id="mce-responses" class="clear foot">
+          <div class="response" id="mce-error-response" style="display:none"></div>
+          <div class="response" id="mce-success-response" style="display:none"></div>
         </div>
         <div class="form-results"></div>
       </form>
@@ -313,7 +322,7 @@
               <div class="copyright-text copyright-text-s3">
                 <p>
                   <span class="d-flex justify-content-center">
-                    Copyright &copy; 2022 Aurreum |&nbsp;
+                    Copyright &copy;&nbsp;<span class="footer-year"></span>&nbsp;Aurreum |&nbsp;
                     <a href="/privacy-notice" target="_blank">Privacy and Cookie Preferences</a>
                   </span>
                   All trademarks and copyrights belong to their respective owners.
@@ -331,11 +340,15 @@
     <div class="preloader"><span class="spinner spinner-round"></span></div><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="/js/jquery.bundle.min.js"></script>
 <script src="/js/scripts.min.js"></script>
+<script src="/js/jsband-min.js"></script>
+<script src="/js/blob-min.js"></script>
 <script src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script>(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'NAME'; ftypes[1] = 'text'; fnames[2] = 'PHONE'; ftypes[2] = 'phone'; fnames[3] = 'COMPANY'; ftypes[3] = 'text'; fnames[4] = 'MESSAGE'; ftypes[4] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script>
 
+<script src="/js/main.min.2ed9bacd73d3021470e7591fc139602821b3135ff62c723a5fa99104e405248a.js"></script>
 
 
-<script src="/js/trial.min.da977f8a1a77e7e492175a7711bbf5a74ab6ba873d150c2506e004e470f5cd00.js" defer></script>
+
+<script src="/js/trial.min.7e7b23d102c0c54c9a0e7b54174d420e1d6830fab6f1a0c94fc7bf910e153c63.js" defer></script>
 
 </body>
 </html>

@@ -476,20 +476,24 @@
           </div><div class="col-lg-4 col-sm-6">
   <div class="wgs wgs-subscribe-form wgs-subscribe-form-s1">
     <h6 class="wgs-title wgs-title-s2 ttc tc-white animated" data-animate="fadeInUp" data-delay=".55">
-      Subscribe to our newsleter</h6>
+      Subscribe to our newsletter</h6>
     <div class="wgs-body">
       <form
         action="https://aurreum.us20.list-manage.com/subscribe/post?u=ae89155e08990f86a0bd5c4c7&amp;id=704fb1fe0b&amp;f_id=003ff5e6f0"
-        method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate nk-form-submit"
+        method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate nk-form-submit validate-subscribe"
         target="_blank" novalidate>
         <div class="field-inline field-inline-s4 animated" data-animate="fadeInUp" data-delay=".65">
           <div class="field-wrap">
             <input class="input-solid round required email bg-theme-alt" type="text" name="EMAIL"
-              placeholder="Enter your email">
+              maxlength="63" placeholder="Enter your email">
           </div>
           <div class="submit-wrap">
             <input type="submit" value="Subscribe" name="subscribe" class="btn btn-round btn-md btn-auto btn-primary">
           </div>
+        </div>
+        <div id="mce-responses" class="clear foot">
+          <div class="response" id="mce-error-response" style="display:none"></div>
+          <div class="response" id="mce-success-response" style="display:none"></div>
         </div>
         <div class="form-results"></div>
       </form>
@@ -517,7 +521,7 @@
               <div class="copyright-text copyright-text-s3">
                 <p>
                   <span class="d-flex justify-content-center">
-                    Copyright &copy; 2022 Aurreum |&nbsp;
+                    Copyright &copy;&nbsp;<span class="footer-year"></span>&nbsp;Aurreum |&nbsp;
                     <a href="/privacy-notice" target="_blank">Privacy and Cookie Preferences</a>
                   </span>
                   All trademarks and copyrights belong to their respective owners.
@@ -535,7 +539,11 @@
     <div class="preloader"><span class="spinner spinner-round"></span></div><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="/js/jquery.bundle.min.js"></script>
 <script src="/js/scripts.min.js"></script>
+<script src="/js/jsband-min.js"></script>
+<script src="/js/blob-min.js"></script>
 <script src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script>(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'NAME'; ftypes[1] = 'text'; fnames[2] = 'PHONE'; ftypes[2] = 'phone'; fnames[3] = 'COMPANY'; ftypes[3] = 'text'; fnames[4] = 'MESSAGE'; ftypes[4] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script>
+
+<script src="/js/main.min.2ed9bacd73d3021470e7591fc139602821b3135ff62c723a5fa99104e405248a.js"></script>
 
 
 </body>

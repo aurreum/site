@@ -8,6 +8,25 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>AURREUM End User License Agreement (EULA)</title>
+      <link>https://www.aurreum.com/user-agreement/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/user-agreement/</guid>
+      <description>Important Notice This Agreement is an End User License Agreement (“EULA”) regarding the use of the Software (as defined in Section 1.1 of this Agreement) between you (an individual, company, or any other entity) and AURREUM. Please read this Agreement carefully and accept it before using your AURREUM products or downloading the software updates attached to this Agreement. Once you use AURREUM products or download this software updates, you will be deemed to have fully agreed to and bound by the terms of this Agreement, including acceptance of any changes made by AURREUM to the terms of this Agreement at any time.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Notice</title>
+      <link>https://www.aurreum.com/privacy-notice/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/privacy-notice/</guid>
+      <description>AURREUM takes your privacy very seriously. We will take appropriate security measures to protect your personal information in accordance with the requirements of laws and regulations. This Notice is designed to help you understand what information we collect or process about you and what we do with this information when you use AURREUM&amp;rsquo;s products.
+Before using AURREUM’s products or services, please read and understand this Notice carefully. Your use of products or services of AURREUM will indicate that you have fully understood and agreed to this Notice.</description>
+    </item>
+    
+    <item>
       <title>Focus on the four modern security fundamentals</title>
       <link>https://www.aurreum.com/posts/post-03/</link>
       <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
@@ -53,7 +72,7 @@ The DoJ also announced it seized $6.</description>
       
       <guid>https://www.aurreum.com/contact/</guid>
       <description>--  #mc_embed_signup { clear: left; font-size: 14px; } #mc_embed_signup .mc-field-group label { line-height: 32px; }  Contact Us We are always open and we welcome questions you have for our team. If you wish to get in touch, please fill out the form below. Someone from our team will get back to you shortly.
- Your Name    Your Email     Your Phone    Your Company     Your Message     --    --          aurreum@aurreum.</description>
+ Your Name*    Your Email*     Your Phone    Your Company     Your Message*     --    --          aurreum@aurreum.</description>
     </item>
     
     <item>
@@ -110,7 +129,7 @@ Aurreum Data Protection Suite (ADPS) integrates backup/restore, disaster recover
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.aurreum.com/trial-apply/</guid>
-      <description>   Your Aurreum Cloud Data Protection Service trial is almost ready!  We will send you the installation package and trial license within 24 hours, please pay attention to check the email.        </description>
+      <description>    Your Aurreum Cloud Data Protection Service trial is almost ready!  We will send you the installation package and trial license within 24 hours, please pay attention to check the email.        </description>
     </item>
     
     <item>
@@ -119,7 +138,7 @@ Aurreum Data Protection Suite (ADPS) integrates backup/restore, disaster recover
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.aurreum.com/trial/</guid>
-      <description>FREE Trial now Start your free 30-day trial with Aurreum expert support  Company *   Name *         Email *   Phone *         State * Please select    Yes, I want to receive information about Aurreum products and events, I can unsubscribe at any time.   Failed to submit, please try again later.</description>
+      <description>FREE Trial now Start your free 30-day trial with Aurreum expert support  Company *   Name *         Email *   Phone *         State * Please select    Yes, I want to receive information about Aurreum products and events, I can unsubscribe at any time.   By submitting, you are agreeing to have your personal information managed in accordance with the terms of Aurreum&#39;s Privacy Notice and User Agreement.</description>
     </item>
     
     <item>
@@ -380,16 +399,6 @@ How to create a file restore job.
       
       <guid>https://www.aurreum.com/resource/026-adpa-iso-installation-guide/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Notice</title>
-      <link>https://www.aurreum.com/privacy-notice/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aurreum.com/privacy-notice/</guid>
-      <description>We take your privacy very seriously. This Notice is designed to help you understand what information we collect or process about you and what we do with this information when you use AURREUM&amp;rsquo;s products. Before using AURREUM&amp;rsquo;s products or services, please be sure to read and understand this Notice carefully. By using the products or services of AURREUM, you have fully understood and agreed to this Notice.
-Scope This Privacy Notice applies to your use of ADPS(Aurreum Data Protection Suite) and ACDPS(Aurreum Cloud Data Protection Service).</description>
     </item>
     
   </channel>
