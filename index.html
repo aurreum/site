@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html><head>
-	<meta name="generator" content="Hugo 0.89.4" />
+	<meta name="generator" content="Hugo 0.90.0" />
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <meta name="description" content="Aurreum" />
@@ -13,7 +13,7 @@
   <link href="/css/vendor.bundle.min.css" rel="stylesheet">
   <link href="/css/style-azure.min.css" rel="stylesheet">
   
-  <link rel="stylesheet" href="https://www.aurreum.com/css/style.min.fe237eed3f1d5547fb798cea79a390f9594d568f0ca054184acff10bedd04bb0.css">
+  <link rel="stylesheet" href="https://www.aurreum.com/css/style.min.d313213af61260e6e1d4d6981ce9fcdd843b6002a38cad4b7402fdb5491fb44b.css">
   
   
   <link rel="stylesheet" href="https://www.aurreum.com/css/ball-style.min.622617d29a94d111f56a5097109a4d6b22e623e827c87672cbb4bc59b4bf8bbd.css">
@@ -562,7 +562,7 @@
   </div>
 </section>
 <!-- Contact -->
-<section class="section section-contact bg-white ov-h">
+<section class="section section-contact contact bg-white ov-h">
   <div class="container">
     <div class="section-head section-head-s3 wide-auto-sm text-center">
       <h6 class="title title-xs title-xs-s3 tc-primary animated" data-animate="fadeInUp" data-delay=".1">Contact</h6>
@@ -588,21 +588,17 @@
         </div>
         <div class="col-lg-6">
           <div class="">
-            <form class="nk-form-submit validate-form"
-              action="https://aurreum.us20.list-manage.com/subscribe/post?u=ae89155e08990f86a0bd5c4c7&amp;id=704fb1fe0b"
-              method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
-              target="_blank" novalidate
-            >
+            <form class="contact-form nk-form-submit validate-form">
               <div class="row">
                 <div class="col-sm-6">
                   <div class="field-item animated" data-animate="fadeInUp" data-delay=".5">
-                    <input name="NAME" type="text" maxlength="63" class="input-line required">
+                    <input name="name" type="text" maxlength="63" class="input-line required">
                     <label class="field-label field-label-line">Your Name*</label>
                   </div>
                 </div>
                 <div class="col-sm-6">
                   <div class="field-item animated" data-animate="fadeInUp" data-delay=".5">
-                    <input name="EMAIL" type="email" maxlength="63" class="input-line required email">
+                    <input name="email" type="email" maxlength="63" class="input-line required email">
                     <label class="field-label field-label-line">Your Email*</label>
                   </div>
                 </div>
@@ -610,32 +606,29 @@
               <div class="row">
                 <div class="col-sm-6">
                   <div class="field-item animated" data-animate="fadeInUp" data-delay=".6">
-                    <input name="PHONE" type="text" maxlength="31" class="input-line">
+                    <input name="phone" type="text" maxlength="31" class="input-line">
                     <label class="field-label field-label-line">Your Phone</label>
                   </div>
                 </div>
                 <div class="col-sm-6">
                   <div class="field-item animated" data-animate="fadeInUp" data-delay=".6">
-                    <input name="COMPANY" type="text" maxlength="63" class="input-line">
+                    <input name="company" type="text" maxlength="63" class="input-line">
                     <label class="field-label field-label-line">Your Company</label>
                   </div>
                 </div>
               </div>
               <div class="field-item animated" data-animate="fadeInUp" data-delay=".7">
-                <textarea name="INFO" maxlength="500" class="input-line input-textarea required"></textarea>
+                <textarea name="message" maxlength="500" class="input-line input-textarea required"></textarea>
                 <label class="field-label field-label-line">Your Message*</label>
               </div>
-              <div id="mce-responses" class="clear foot">
-                <div class="response" id="mce-error-response" style="display:none"></div>
-                <div class="response" id="mce-success-response" style="display:none"></div>
-              </div>
               <div class="row">
-                <div class="col-sm-4 animated" data-animate="fadeInUp" data-delay=".8">
-                  <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-md btn-grad">
+                <div class="col-sm-4 animated contact-submit" data-animate="fadeInUp" data-delay=".8">
+                  <button class="btn btn-md btn-grad">
+                    <span class="spinner-border spinner-border-sm me-2"></span>
+                    SUBMIT
+                  </button>
                 </div>
-                <div class="col-sm-8">
-                  <div class="form-results"></div>
-                </div>
+                <div class="col-sm-8 submit-result"></div>
               </div>
             </form>
           </div>
@@ -686,22 +679,18 @@
     <h6 class="wgs-title wgs-title-s2 ttc tc-white animated" data-animate="fadeInUp" data-delay=".55">
       Subscribe to our newsletter</h6>
     <div class="wgs-body">
-      <form
-        action="https://aurreum.us20.list-manage.com/subscribe/post?u=ae89155e08990f86a0bd5c4c7&amp;id=704fb1fe0b&amp;f_id=003ff5e6f0"
-        method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate nk-form-submit validate-subscribe"
-        target="_blank" novalidate>
+      <form class="subscribe-form nk-form-submit validate-subscribe">
         <div class="field-inline field-inline-s4 animated" data-animate="fadeInUp" data-delay=".65">
           <div class="field-wrap">
-            <input class="input-solid round required email bg-theme-alt" type="text" name="EMAIL"
+            <input class="input-solid round required email bg-theme-alt" name="email" type="email"
               maxlength="63" placeholder="Enter your email">
           </div>
           <div class="submit-wrap">
-            <input type="submit" value="Subscribe" name="subscribe" class="btn btn-round btn-md btn-auto btn-primary">
+            <button class="btn btn-round btn-md btn-auto btn-primary">
+              <span class="spinner-border spinner-border-sm me-2"></span>
+              SUBSCRIBE
+            </button>
           </div>
-        </div>
-        <div id="mce-responses" class="clear foot">
-          <div class="response" id="mce-error-response" style="display:none"></div>
-          <div class="response" id="mce-success-response" style="display:none"></div>
         </div>
         <div class="form-results"></div>
       </form>
@@ -749,13 +738,15 @@
 <script src="/js/scripts.min.js"></script>
 <script src="/js/jsband-min.js"></script>
 <script src="/js/blob-min.js"></script>
-<script src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script>(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'NAME'; ftypes[1] = 'text'; fnames[2] = 'PHONE'; ftypes[2] = 'phone'; fnames[3] = 'COMPANY'; ftypes[3] = 'text'; fnames[4] = 'MESSAGE'; ftypes[4] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script>
 
-<script src="/js/main.min.2ed9bacd73d3021470e7591fc139602821b3135ff62c723a5fa99104e405248a.js"></script>
+<script src="/js/main.min.7636f604c18cc150e56dee74590351f266a1275365cb27932ef4ee602d77f1a1.js"></script>
 
 
 <script src="/js/home.min.08b6b0c4028966a75fe63ac9b2b9ff2e4d52093cd3d4ffc856f8454d0d925faa.js"></script>
 
+
+
+<script src="/js/contact.min.2f45d058cf45d6080afa56661fb2993fc20ec5d4c9bbf249aa840398479a6a3f.js" defer></script>
 
 </body>
 </html>
