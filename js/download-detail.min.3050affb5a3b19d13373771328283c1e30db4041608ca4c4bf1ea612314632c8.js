@@ -34,16 +34,16 @@
                     <div class="description-title">${g.file_title} ${d}</div>
                   </div>
                   <div class="content-line row">
-                    <div class="content-title col-lg-2">MD5SUM:</div>
-                    <div class="content-text col-lg-10">${h.md5_sum}</div>
+                    <div class="content-title col-lg-3">MD5SUM:</div>
+                    <div class="content-text col-lg-9">${h.md5_sum}</div>
                   </div>
                   <div class="content-line row">
-                    <div class="content-title col-lg-2">SHA1SUM:</div>
-                    <div class="content-text col-lg-10">${h.sha1_sum}</div>
+                    <div class="content-title col-lg-3">SHA1SUM:</div>
+                    <div class="content-text col-lg-9">${h.sha1_sum}</div>
                   </div>
                   <div class="content-line row">
-                    <div class="content-title col-lg-2">SHA256SUM:</div>
-                    <div class="content-text col-lg-10">${h.sha256_sum}</div>
+                    <div class="content-title col-lg-3">SHA256SUM:</div>
+                    <div class="content-text col-lg-9">${h.sha256_sum}</div>
                   </div>
                 </div>
               </div>
@@ -83,16 +83,16 @@
             <div class="description-title">${g.file_title} ${d}</div>
           </div>
           <div class="content-line row">
-            <div class="content-title col-lg-2">MD5SUM:</div>
-            <div class="content-text col-lg-10">${h.md5_sum}</div>
+            <div class="content-title col-lg-3">MD5SUM:</div>
+            <div class="content-text col-lg-9">${h.md5_sum}</div>
           </div>
           <div class="content-line row">
-            <div class="content-title col-lg-2">SHA1SUM:</div>
-            <div class="content-text col-lg-10">${h.sha1_sum}</div>
+            <div class="content-title col-lg-3">SHA1SUM:</div>
+            <div class="content-text col-lg-9">${h.sha1_sum}</div>
           </div>
           <div class="content-line row">
-            <div class="content-title col-lg-2">SHA256SUM:</div>
-            <div class="content-text col-lg-10">${h.sha256_sum}</div>
+            <div class="content-title col-lg-3">SHA256SUM:</div>
+            <div class="content-text col-lg-9">${h.sha256_sum}</div>
           </div>
         </div>
       </div>
