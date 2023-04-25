@@ -1,40 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Aurreum</title>
+    <title>Aurreum</title>
     <link>https://www.aurreum.com/posts/</link>
-    <description>Recent content in Posts on Aurreum</description>
+    <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Focus on the four modern security fundamentals</title>
-      <link>https://www.aurreum.com/posts/post-03/</link>
-      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aurreum.com/posts/post-03/</guid>
-      <description>There&amp;rsquo;s an old adage about how an ounce of prevention is always worth more than a pound of cure. The challenge when it comes to cybersecurity is there are so many vectors that cybercriminals can potentially exploit it&amp;rsquo;s often difficult for cybersecurity teams to determine where best to focus their efforts. That&amp;rsquo;s especially true in the midst of an ongoing security crisis that requires security teams to pivot from one attack to another on sometimes a daily basis.</description>
-    </item>
-    
-    <item>
-      <title>Don&#39;t pay the ransom: A three-step guide to ransomware protection</title>
-      <link>https://www.aurreum.com/posts/post-02/</link>
-      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aurreum.com/posts/post-02/</guid>
-      <description>It&amp;rsquo;s a nightmare scenario for any organization — your business just got hit by a successful ransomware attack. What do you do? Do you pay the ransom, hoping you get your data back quickly and get operations back to normal as soon as possible? Or have you taken the necessary precautions to avoid paying the ransom?
-Your company might have cyber insurance or other resources to pay a ransom, but it&amp;rsquo;s extremely dangerous to assume that paying a ransom will get your data restored.</description>
-    </item>
-    
-    <item>
-      <title>Pace of ransomware arrests picks up</title>
+      <title>Aurreum released the industry&#39;s most reliable cloud data management platform.</title>
       <link>https://www.aurreum.com/posts/post-01/</link>
-      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.aurreum.com/posts/post-01/</guid>
-      <description>The wheels of justice may grind slowly but when it comes to ransomware the pace at which cybercriminals are being arrested appears to be picking up.
-The U.S Department of Justice (DoJ) unsealed an indictment of Yaroslav Vasinskyi, a Ukrainian national arrested while in Poland, that charges him with participating in multiple ransomware attacks, including the infamous attack made against Kaseya, using Sodinokibi/REvil ransomware.
-The DoJ also announced it seized $6.</description>
+      <description>Aurreum, a rising star in the field of multi-cloud data management, released its self-developed Cloud Data Protection Services today. This service will help enterprises effectively protect data in the cloud, avoid data loss, defend against Ransomware attacks, and achieve simple and unified cloud data management.
+The rise of multi-cloud creates a transformative infrastructure. However, customers own the security, protection, compliance, and availability of their data within the cloud as part of a shared responsibility model with the cloud service provider (CSP).</description>
     </item>
     
   </channel>
