@@ -1,1 +1,0 @@
-(()=>{var a="https://pay.aurreum.com",b=`${a}/my-account`;new URLSearchParams(location.search).has("cart")?b=`${a}/cart`:new URLSearchParams(location.search).has("cart-list")&&(b=`${a}/cart-list`),document.getElementsByClassName("pay-site")[0].src=b})()
