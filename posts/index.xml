@@ -6,7 +6,17 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anti-ransomware case: 12 Hours of Thrilling Stars</title>
+      <link>https://www.aurreum.com/posts/post-03/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-03/</guid>
+      <description>The following is a real ransomware attack and successful recovery story: An educational institution faced a thrilling ransomware attack and rescued the production system in 12 hours.
+In recent years, the educational institution&amp;rsquo;s data volume has exploded. Especially in the past three years, the growth rate has been as high as nearly ten times. As the amount of data continues to grow, the organization faces the hidden worry of efficiency and performance impact during the expansion of the backup system.</description>
+    </item>
+    
     <item>
       <title>Ransomware Attacks: How to Stay Calm and Protect Your Data?</title>
       <link>https://www.aurreum.com/posts/post-02/</link>
