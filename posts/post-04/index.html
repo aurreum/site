@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="https://www.aurreum.com/css/style.min.05240c9d6eb67b5b8f21f66f28a0a96630bd6be41a07f9fb7f87528b0fec4db7.css">
   
 </head>
-<body class="page-_index nk-body body-wider mode-onepage">
+<body class="page-post-04 nk-body body-wider mode-onepage">
     <div class="nk-wrap"><header class="nk-header page-header is-transparent is-sticky is-shrink is-dark">
   <div class="header-main">
   <div class="header-container container">
@@ -111,101 +111,43 @@
   </div>
 </div>
 
-  <div class="header-banner bg-theme-alt">
-  <div class="nk-banner">
-    <div class="banner banner-inner">
-      <div class="banner-wrap ov-v">
-        <div class="container">
-          <div class="row align-items-center justify-content-center justify-content-lg-between">
-            <div class="col-lg-11 col-sm-10 col-mb-10 text-center text-lg-start">
-              <div class="banner-caption cpn tc-light mgt-m70">
-                <div class="cpn-head">
-                  <h1 class="title download-category">Blogs</h1>
-                </div>
-                <div class="cpn-text cpn-text-s3">
-                  <p>You can get the latest news and insights from Aurreum on our blog.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="nk-ovm mask-d shape-x"></div>
-</div>
-
+  
 </header>
 <main class="nk-pages bg-transparent">
 
 
-<link rel="stylesheet" href="https://www.aurreum.com/css/resource.min.8420ca4b20fa9934eda91d9ab8126005a1bb0bef88da08f4b3ff0ff3374cf835.css">
+<link rel="stylesheet" href="https://www.aurreum.com/css/blog.min.a54e3cabc21f280889ea53c09b5867144ee3a820b18b22f82b6617da110245a3.css">
 
-<section class="section resources pdt-0 over-up-md index-6">
-  <div class="container">
-    
-    <div class="d-flex">
-      <h6 class="category-title fw-bolder pt-1 me-5">
-        May 2023
-      </h6>
-      <div class="detail">
-        <a class="h5 fw-bolder" href="https://www.aurreum.com/posts/post-04/" target="_blank">
-          Aurreum&#39;s Continuous Log Real-time Protection (CLRP) technology - achieving sub-second RPO is not a dream
-        </a>
-        <div class="description">To enhance the real-time nature of data protection, Aurreum has independently developed the Continuous Log Real-time Protection (CLRP) technology.</div>
-      </div>
-    </div>
-    
-    <div class="d-flex">
-      <h6 class="category-title fw-bolder pt-1 me-5">
-        May 2023
-      </h6>
-      <div class="detail">
-        <a class="h5 fw-bolder" href="https://www.aurreum.com/posts/post-05/" target="_blank">
-          Embracing the Advantages of Enterprise Cloud Backup
-        </a>
-        <div class="description">Why enterprise cloud backup is becoming the preferred choice for businesses worldwide.</div>
-      </div>
-    </div>
-    
-    <div class="d-flex">
-      <h6 class="category-title fw-bolder pt-1 me-5">
-        May 2023
-      </h6>
-      <div class="detail">
-        <a class="h5 fw-bolder" href="https://www.aurreum.com/posts/post-03/" target="_blank">
-          Anti-ransomware case: 12 Hours of Thrilling Stars
-        </a>
-        <div class="description">An educational institution faced a thrilling ransomware attack and rescued the production system in 12 hours.</div>
-      </div>
-    </div>
-    
-    <div class="d-flex">
-      <h6 class="category-title fw-bolder pt-1 me-5">
-        May 2023
-      </h6>
-      <div class="detail">
-        <a class="h5 fw-bolder" href="https://www.aurreum.com/posts/post-02/" target="_blank">
-          Ransomware Attacks: How to Stay Calm and Protect Your Data?
-        </a>
-        <div class="description">When ransomware is around the corner, how can enterprises be prepared and respond calmly?</div>
-      </div>
-    </div>
-    
-    <div class="d-flex">
-      <h6 class="category-title fw-bolder pt-1 me-5">
-        April 2023
-      </h6>
-      <div class="detail">
-        <a class="h5 fw-bolder" href="https://www.aurreum.com/posts/post-01/" target="_blank">
-          Aurreum released the industry&#39;s most reliable cloud data management platform
-        </a>
-        <div class="description">The breakout innovator Aurreum International has just released its Cloud Data Protection Service.</div>
-      </div>
-    </div>
-    
+<div class="blog container">
+  <div class="entry-thumbnail">
+    <img src="">
   </div>
-</section>
+  <h1 class="post-title">
+    Aurreum&#39;s Continuous Log Real-time Protection (CLRP) technology - achieving sub-second RPO is not a dream
+  </h1>
+  <div class="entry-meta post-meta">
+    <span class="entry-date" href="https://www.aurreum.com/posts/post-04/">
+      <time>Thu, May 25, 2023</time>
+    </span>
+  </div>
+  <p>How to reduce the RPO to sub-second level for backup and recovery of Oracle databases?</p>
+<p>How to achieve real-time data replication while minimizing resource consumption?</p>
+<p>Aurreum&rsquo;s Continuous Log Real-time Protection (CLRP) technology effortlessly addresses these challenges. Let&rsquo;s explore the advantages and principles behind this technology:</p>
+<p>It is well-known that Oracle database backups are typically performed using the RMAN backup tool. However, RMAN can only backup data files and archived logs. Consequently, in the event of an issue with the production host, the restoration can only be performed to the state of the most recent log archiving. Data loss in such cases is typically in the range of hours or even half a day, resulting in an RPO of several hours or more. This situation fails to meet the data protection requirements of customers.</p>
+<p>To enhance the real-time nature of data protection, Aurreum has independently developed the Continuous Log Real-time Protection (CLRP) technology. CLRP is based on block-level backup, continuously monitoring changes to redo logs, archived logs, and other files through filesystem message monitoring, and performing real-time continuous backups of log files based on these changes.</p>
+<p>The CLRP technology, built upon periodic full database backups, performs real-time replication of redo logs and archived logs of the production database, achieving backup protection of changed data within sub-second intervals. This advancement elevates database protection technology to new heights, reducing the previously several-hour or more RPO to sub-second levels, with an average of 0.2 seconds under normal load conditions.</p>
+<p>When utilizing the CLRP technology, there is no need to install any software or hardware drivers, and it does not impact the operation of the business system. On the other hand, some competing solutions claiming to support continuous log backup require the deployment of drivers at the system level, which can adversely affect system stability if any monitoring issues arise.</p>
+<p>Furthermore, most solutions on the market adopt volume-level backups, which cannot selectively backup only the changed data blocks in Oracle or MySQL applications, resulting in a significantly larger backup data block size compared to the actual changed data blocks in Oracle. This significantly increases the resource consumption on the client side, impacting the operation of business services, particularly in busy databases.</p>
+<p>By employing the CLRP technology, users can restore the database to any desired time point or SCN (System Change Number). Due to the extremely small size of the real-time replicated changed data blocks, the individual space consumption is almost negligible, enabling recovery to any desired time point or SCN.</p>
+<p>In summary, utilizing the Continuous Log Real-time Protection (CLRP) technology brings notable advantages:</p>
+<ul>
+<li>Reducing the traditional backup solution&rsquo;s RPO from several hours or more to sub-second levels, with an average of 0.2 seconds under normal load conditions.</li>
+<li>Compared to Continuous Data Protection (CDP) solutions, the CLRP technology&rsquo;s real-time replication of data blocks is significantly smaller, resulting in lower resource consumption compared to other CDP solutions.</li>
+<li>Deploying CLRP requires no installation of software or hardware drivers on the production host, with minimal impact on the business system running on the production host.</li>
+<li>It enables database recovery to any desired time point or SCN, effectively addressing any extreme software or hardware failures in the production system.</li>
+</ul>
+
+</div>
 
       </main><footer class="nk-footer bg-theme-dark">
   <hr class="hr hr-white-5 my-0">

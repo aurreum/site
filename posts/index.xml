@@ -6,7 +6,28 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aurreum&#39;s Continuous Log Real-time Protection (CLRP) technology - achieving sub-second RPO is not a dream</title>
+      <link>https://www.aurreum.com/posts/post-04/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-04/</guid>
+      <description>How to reduce the RPO to sub-second level for backup and recovery of Oracle databases?
+How to achieve real-time data replication while minimizing resource consumption?
+Aurreum&amp;rsquo;s Continuous Log Real-time Protection (CLRP) technology effortlessly addresses these challenges. Let&amp;rsquo;s explore the advantages and principles behind this technology:
+It is well-known that Oracle database backups are typically performed using the RMAN backup tool. However, RMAN can only backup data files and archived logs. Consequently, in the event of an issue with the production host, the restoration can only be performed to the state of the most recent log archiving.</description>
+    </item>
+    
+    <item>
+      <title>Embracing the Advantages of Enterprise Cloud Backup</title>
+      <link>https://www.aurreum.com/posts/post-05/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-05/</guid>
+      <description>In today&amp;rsquo;s data-driven world, the importance of reliable data backup and recovery cannot be overstated. Enterprises of all sizes face the risk of data loss due to various factors, including hardware failures, natural disasters, human errors, or malicious attacks. To mitigate these risks, many organizations are turning to enterprise cloud backup solutions. Cloud backup offers numerous advantages over traditional backup methods, providing enhanced data protection, scalability, cost-effectiveness, and peace of mind.</description>
+    </item>
+    
     <item>
       <title>Anti-ransomware case: 12 Hours of Thrilling Stars</title>
       <link>https://www.aurreum.com/posts/post-03/</link>
