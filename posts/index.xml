@@ -6,7 +6,16 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How can we double the backup speed of a massive number of small files?</title>
+      <link>https://www.aurreum.com/posts/post-06/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-06/</guid>
+      <description>With the increasingly improved management of information technology in industries such as healthcare, education, e-commerce, and finance, there are also more types of unstructured data, including records (schools, libraries), images (e-commerce), videos (hospitals), bills (finance), drawings (design companies), and more. The amount of data in enterprises has grown exponentially from gigabytes (GB) to terabytes (TB) and even petabytes (PB). Within this massive amount of data, there are often numerous small files, with individual file sizes below kilobytes (KB), but the number of files can reach millions, tens of millions, or even billions, resulting in a massive volume of small files.</description>
+    </item>
+    
     <item>
       <title>Aurreum&#39;s Continuous Log Real-time Protection (CLRP) technology - achieving sub-second RPO is not a dream</title>
       <link>https://www.aurreum.com/posts/post-04/</link>
