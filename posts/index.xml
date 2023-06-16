@@ -6,7 +6,25 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seizing Opportunities in Data Management Challenges: Aurreum&#39;s Contribution to CDM</title>
+      <link>https://www.aurreum.com/posts/post-07/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-07/</guid>
+      <description>Data management has presented distinct characteristics in five dimensions compared to the past. Firstly, there has been a rapid expansion in scale, with even regular relational databases reaching capacities in the terabyte range, and larger ones reaching 100TB or even several hundred terabytes. Secondly, the volume of data access has surged due to the internet-driven application landscape, resulting in larger user bases and more frequent data retrieval and updates. Thirdly, the importance of data security has become more pronounced as data has become a core asset for enterprises, serving as the foundation for their survival and growth.</description>
+    </item>
+    
+    <item>
+      <title>Streamlining Data Backup with Deduplication Technology</title>
+      <link>https://www.aurreum.com/posts/post-08/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-08/</guid>
+      <description>Data backup is a crucial component of modern information technology. With the continuous growth of data volume and increasing demands for data protection, traditional backup methods have encountered challenges such as insufficient storage space and lengthy backup times. To address these issues, deduplication technology has emerged as a solution. Deduplication technology is a data reduction method that identifies and removes duplicate data, enabling efficient data backup and storage. In this article, we will explore the application of deduplication technology in data backup and the benefits it brings.</description>
+    </item>
+    
     <item>
       <title>How can we double the backup speed of a massive number of small files?</title>
       <link>https://www.aurreum.com/posts/post-06/</link>
