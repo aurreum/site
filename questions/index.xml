@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aurreum</title>
+    <link>https://www.aurreum.com/questions/</link>
+    <description>Recent content on Aurreum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.aurreum.com/questions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://www.aurreum.com/questions/001-refund/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/questions/001-refund/</guid>
+      <description>If you want to request a refund on your CDPS subscription, please email admin@aurreum.com with the following information:
+ Your name and telephone Order No. and purchase date Your Aurreum account email address Refund reason  We will process your refund request as soon as possible after we receive your email.</description>
+    </item>
+    
+  </channel>
+</rss>
