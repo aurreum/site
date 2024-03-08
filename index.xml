@@ -73,7 +73,7 @@ Aurreum believes that a comprehensive ransomware strategy should encompass both 
       <description>How to reduce the RPO to sub-second level for backup and recovery of Oracle databases?
 How to achieve real-time data replication while minimizing resource consumption?
 Aurreum&amp;rsquo;s Continuous Log Real-time Protection (CLRP) technology effortlessly addresses these challenges. Let&amp;rsquo;s explore the advantages and principles behind this technology:
-It is well-known that Oracle database backups are typically performed using the RMAN backup tool. However, RMAN can only backup data files and archived logs. Consequently, in the event of an issue with the production host, the restoration can only be performed to the state of the most recent log archiving.</description>
+It is well-known that Oracle database backups are typically performed using the RMAN backup tool. However, RMAN can only back up data files and archived logs.</description>
     </item>
     
     <item>
@@ -256,7 +256,7 @@ Getting familiar with Aurreum Data Protection Suite can help you to start fast. 
       <description>   In this 7-minute video, we will introduce how to back up and restore files with Aurreum Data Protection Suite (ADPS).
 We will cover:
 How to install the file agent.
-How to activate and authorize the resource.
+How to activate the resource and authorize user access.
 How to create a file backup job.
 How to create a file restore job.
    </description>
