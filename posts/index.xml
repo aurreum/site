@@ -6,7 +6,17 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MySQL Continuous Log Real-time Protection (CLRP), achieving a sub-second RPO is not a dream!</title>
+      <link>https://www.aurreum.com/posts/post-13/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-13/</guid>
+      <description>Traditional MySQL database backup methods suffer from serious data loss. When a production host fails, users can only restore to the most recent backup point, which may result in several hours or even days of data loss. In today&amp;rsquo;s data-driven era, data has become a critical element of production. Therefore, more advanced technology is needed to ensure data security.
+To address the shortcomings of traditional backup methods, Aurreum has independently developed the Continuous Log Real-time Protection (CLRP) technology.</description>
+    </item>
+    
     <item>
       <title>Why is data recovery considered the new frontier in combating ransomware?</title>
       <link>https://www.aurreum.com/posts/post-12/</link>
