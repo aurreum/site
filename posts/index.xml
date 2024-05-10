@@ -6,7 +6,17 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data deduplication: maximizing backup cost-effectiveness!</title>
+      <link>https://www.aurreum.com/posts/post-14/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-14/</guid>
+      <description>Don&amp;rsquo;t underestimate it; data deduplication is crucial in enterprise backup applications. It&amp;rsquo;s like a magic wand that eliminates redundant data, saving substantial storage space for businesses while ensuring the integrity and consistency of backup data. This directly impacts the economic efficiency of backup systems!
+When selecting a backup platform, it&amp;rsquo;s essential to focus on the data deduplication function. Data deduplication serves as the foundation of backup systems and constitutes the core capability of the product!</description>
+    </item>
+    
     <item>
       <title>MySQL Continuous Log Real-time Protection (CLRP), achieving a sub-second RPO is not a dream!</title>
       <link>https://www.aurreum.com/posts/post-13/</link>
