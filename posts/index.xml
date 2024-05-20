@@ -6,7 +6,17 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lessons from a Cloud Service Provider&#39;s Data Deletion Incident: Backup Responsibility Lies Beyond the Cloud Service Provider</title>
+      <link>https://www.aurreum.com/posts/post-15/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-15/</guid>
+      <description>Recently, an incident involving a globally renowned cloud computing provider mistakenly deleting a fund company&amp;rsquo;s private cloud account has garnered significant attention. This mistake led to hundreds of thousands of the fund company&amp;rsquo;s members being unable to access their retirement accounts for seven days, causing considerable anxiety among users.
+Although the fund company had deployed redundant services in two different regions to ensure easy recovery in case of service failure or data loss, this incident deleted the company&amp;rsquo;s cloud subscription, resulting in the loss of backup data in both regions.</description>
+    </item>
+    
     <item>
       <title>Data deduplication: maximizing backup cost-effectiveness!</title>
       <link>https://www.aurreum.com/posts/post-14/</link>
