@@ -6,7 +6,19 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aurreum SAP IQ&#39;s streaming backup data protection solution makes a stunning debut!</title>
+      <link>https://www.aurreum.com/posts/post-16/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-16/</guid>
+      <description>Limitations of traditional backup
+The traditional backup solution for SAP IQ typically involves the use of specific backup scripts. In this approach, the backup data is first cached locally on the database server and then transferred to the designated backup storage media.
+This backup solution has the following limitations, which makes it difficult to improve backup performance and handle large-scale business scenarios:
+  High risk: Manually writing or modifying backup scripts is prone to errors, and maintenance becomes challenging as versions evolve.</description>
+    </item>
+    
     <item>
       <title>Lessons from a Cloud Service Provider&#39;s Data Deletion Incident: Backup Responsibility Lies Beyond the Cloud Service Provider</title>
       <link>https://www.aurreum.com/posts/post-15/</link>
