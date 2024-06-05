@@ -574,5 +574,41 @@ How to create a file restore job.
       <description></description>
     </item>
     
+    <item>
+      <title>030-adps-sap-iq</title>
+      <link>https://www.aurreum.com/resource/030-adps-sap-iq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/030-adps-sap-iq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>031-adps-sap-ase</title>
+      <link>https://www.aurreum.com/resource/031-adps-sap-ase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/031-adps-sap-ase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>032-adps-exchange-online</title>
+      <link>https://www.aurreum.com/resource/032-adps-exchange-online/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/032-adps-exchange-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>033-adps-sharepoint</title>
+      <link>https://www.aurreum.com/resource/033-adps-sharepoint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/resource/033-adps-sharepoint/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
