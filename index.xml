@@ -6,7 +6,16 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comprehensive strategies for tackling VMware snapshot residue: Aurreum&#39;s virtualization backup solution</title>
+      <link>https://www.aurreum.com/posts/post-17/</link>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-17/</guid>
+      <description>VMware&amp;rsquo;s snapshot feature has long been considered a convenient tool for data backup. However, over time, snapshot residue has become a thorny issue in the field of backup and disaster recovery. If the snapshot residue is not properly handled, it can lead to abnormal business environments, data leaks, and even compliance issues. To address this pain point, Aurreum offers a comprehensive and efficient solution from the pre-backup, in-backup, and post-backup stages, providing enterprises with granular management of their virtual machine backups.</description>
+    </item>
+    
     <item>
       <title>Aurreum SAP IQ&#39;s streaming backup data protection solution makes a stunning debut!</title>
       <link>https://www.aurreum.com/posts/post-16/</link>
@@ -20,7 +29,7 @@ This backup solution has the following limitations, which makes it difficult to 
     </item>
     
     <item>
-      <title>Lessons from a Cloud Service Provider&#39;s Data Deletion Incident: Backup Responsibility Lies Beyond the Cloud Service Provider</title>
+      <title>Lessons from a cloud service provider&#39;s data deletion incident: Backup responsibility lies beyond the cloud service provider</title>
       <link>https://www.aurreum.com/posts/post-15/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       
