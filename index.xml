@@ -6,7 +6,17 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aurreum database replication family welcomes a new member, MySQL data security protection upgraded</title>
+      <link>https://www.aurreum.com/posts/post-18/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-18/</guid>
+      <description>Aurreum database replication supports Oracle and SQL Server databases, offering a wide range of data security protection capabilities from logical backups, physical backups, and synthetic backups to continuous log real-time protection and remote disaster recovery.
+To cater to more application scenarios and data restore requirements, Aurreum has officially launched a new database replication feature specifically for MySQL, providing more diverse protection capabilities. It offers a flexible, reliable, and secure data protection solution for users&#39; business systems, establishing an impregnable data security defense.</description>
+    </item>
+    
     <item>
       <title>Comprehensive strategies for tackling VMware snapshot residue: Aurreum&#39;s virtualization backup solution</title>
       <link>https://www.aurreum.com/posts/post-17/</link>
