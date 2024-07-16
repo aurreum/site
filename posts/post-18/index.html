@@ -139,47 +139,47 @@
 <p>Aurreum&rsquo;s MySQL database replication is based on MySQL binary logs. By configuring the primary-standby (source-replica) replication relationship, it can provide real-time protection capabilities with an RPO (Recovery Point Objective) close to zero. When the primary database fails, users can upgrade the standby database to take over normal business traffic. This failover process can be achieved within seconds. Additionally, Aurreum&rsquo;s MySQL database replication supports a wide range of features including disaster recovery testing, reverse incremental synchronization, and replication monitoring.</p>
 <p><img src="/images/posts/aurreum-mysql-database-replication-features.png" alt="Aurreum MySQL database replication features"></p>
 <ol>
-<li>Replication modes: semi-synchronous replication and asynchronous replication</li>
-</ol>
+<li>
+<p>Replication modes: semi-synchronous replication and asynchronous replication</p>
 <ul>
-<li>
-<p>Semi-synchronous replication: The primary must wait for the standby to receive and log replicated events before committing a transaction.</p>
-</li>
-<li>
-<p>Asynchronous replication: The primary does not need to confirm whether the standby has logged or processed the replication event. It does not guarantee that all replication events have reached the standby.</p>
-</li>
+<li>Semi-synchronous replication: The primary must wait for the standby to receive and log replicated events before committing a transaction.</li>
+<li>Asynchronous replication: The primary does not need to confirm whether the standby has logged or processed the replication event. It does not guarantee that all replication events have reached the standby.</li>
 </ul>
-<ol start="2">
-<li>Switching management methods: primary-standby switchover and standby activation</li>
-</ol>
+</li>
+<li>
+<p>Switching management methods: primary-standby switchover and standby activation</p>
 <ul>
 <li>Primary-standby switchover: Users can manually change the primary and standby database relationship during the replication process.</li>
 <li>Standby activation: When the primary database fails, users can activate the standby database. The replication relationship is automatically disengaged, and the standby database is into a read-write state.</li>
 </ul>
-<ol start="3">
-<li>Reverse incremental synchronization</li>
-</ol>
+</li>
+<li>
+<p>Reverse incremental synchronization</p>
 <p>When the primary fails, the standby database becomes a new primary database. As the original primary database is offline, data diverges between the new primary and original primary. Reverse incremental synchronization allows the original primary to resync only the divergent data when brought back online, instead of a full synchronization.</p>
-<ol start="4">
-<li>Replication monitoring</li>
-</ol>
+</li>
+<li>
+<p>Replication monitoring</p>
 <p>The key indicators monitored include resource status of primary and standby databases, database service status, replication status, replication lag. The console provides users with real-time visibility into the health and performance of the replication environment.</p>
+</li>
+</ol>
 <p><strong>Typical solutions</strong></p>
 <ol>
-<li>Database replication solution</li>
-</ol>
+<li>
+<p>Database replication solution</p>
 <p><img src="/images/posts/aurreum-database-replication-solution.png" alt="Aurreum database replication solution"></p>
 <p>The solution enables replicating the source database to a target database. This establishes a replication relationship between the source and target databases. The solution supports read-write splitting, where write operations are executed on the source database, while read operations are executed on the target database. It improves the overall database processing performance. Furthermore, when the source database fails, the target database can immediately take over, ensuring the continuity of business operations.</p>
-<ol start="2">
-<li>Database replication and backup solution</li>
-</ol>
+</li>
+<li>
+<p>Database replication and backup solution</p>
 <p><img src="/images/posts/aurreum-database-replication-and-backup-solution.png" alt="Aurreum-database-replication-and-backup-solution"></p>
 <p>With database backups, the solution enables restoring to any point-in-time state and addressing logical errors.</p>
-<ol start="3">
-<li>Database replication and copy data management solution</li>
-</ol>
+</li>
+<li>
+<p>Database replication and copy data management solution</p>
 <p><img src="/images/posts/aurreum-database-replication-and-copy-data-management-solution.png" alt="Aurreum database replication and copy data management solution"></p>
 <p>Aurreum&rsquo;s copy data management functionality allows the backup sets to be made accessible through mounting. In development and testing environments, this enables immediate access to database copies, without the need to restore. When the source database experiences logical errors, the copies can be utilized for failover, satisfying the business continuity requirements.</p>
+</li>
+</ol>
 <p><strong>Conclusion</strong></p>
 <p>Aurreum&rsquo;s newly added MySQL database replication further enriches the protection solutions, providing more comprehensive and diverse business security protection capabilities for MySQL running in complex user environments.</p>
 
