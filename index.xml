@@ -6,7 +6,17 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backup and disaster recovery: the ultimate safeguard for enterprise security</title>
+      <link>https://www.aurreum.com/posts/post-20/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-20/</guid>
+      <description>Background of backup and disaster recovery
+In 1993, the World Trade Center in the United States experienced a terrorist bombing incident that shocked the world. At the time of the incident, approximately 350 companies operated within the World Trade Center. However, just one year later, that number had dwindled to 150. The remaining 200 companies faced bankruptcy because they could not recover their crucial data and information systems. This disaster vividly demonstrates the importance of data and IT systems to the survival of enterprises.</description>
+    </item>
+    
     <item>
       <title>The Microsoft Blue Screen of Death incident: A wake-up call for enterprise data security</title>
       <link>https://www.aurreum.com/posts/post-19/</link>
