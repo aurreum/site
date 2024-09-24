@@ -6,7 +6,17 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CDM technology: Aurreum&#39;s new tool for revolutionizing data protection</title>
+      <link>https://www.aurreum.com/posts/post-21/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-21/</guid>
+      <description>In today&amp;rsquo;s data-driven era, efficiently protecting and managing vast amounts of data presents a major challenge for enterprises. Traditional backup methods, such as periodic full backups combined with incremental backups, often fall short in the big data era. These methods can lead to prolonged backup durations, excessive resource consumption, and complicated recovery processes. To address these challenges, Aurreum has introduced the innovative Copy Data Management (CDM) technology.
+Advantages of Aurreum&amp;rsquo;s CDM technology</description>
+    </item>
+    
     <item>
       <title>Backup and disaster recovery: the ultimate safeguard for enterprise security</title>
       <link>https://www.aurreum.com/posts/post-20/</link>
