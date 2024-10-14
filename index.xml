@@ -6,7 +6,16 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backup testing and verification: the last line of defense for enterprise data security</title>
+      <link>https://www.aurreum.com/posts/post-22/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-22/</guid>
+      <description>In the digital age, data has become one of the most important assets for businesses. Data loss or corruption can lead to business disruption, financial loss, and even legal risks. Therefore, data backup has become a crucial means of protecting key enterprise data. However, many businesses tend to focus solely on completing backups while neglecting the testing and verification of backup data. In fact, testing and verifying backups is the key to ensuring that data is truly recoverable, making it the last line of defense for enterprise data security.</description>
+    </item>
+    
     <item>
       <title>CDM technology: Aurreum&#39;s new tool for revolutionizing data protection</title>
       <link>https://www.aurreum.com/posts/post-21/</link>
