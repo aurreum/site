@@ -6,7 +6,18 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Supercomputers Are Booming, But Is Your Data Safe? How to Protect Against Loss and Attacks?</title>
+      <link>https://www.aurreum.com/posts/post-27/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-27/</guid>
+      <description>Recently, AI supercomputers have taken the tech world by storm, driving a massive wave of interest in AI Supercomputers. More and more companies and research institutions are deploying AI models locally to reduce computational costs, improve efficiency, and safeguard data privacy and compliance. But here’s the problem:
+Is the data in your AI supercomputer really safe?
+Imagine this—if a hardware failure, program error, system crash, or, worse yet, a ransomware attack occurs, your AI training and inference could be halted in an instant.</description>
+    </item>
+    
     <item>
       <title>3-2-1 Backup Rule: The Best Practice to Ensure Data Integrity</title>
       <link>https://www.aurreum.com/posts/post-26/</link>
