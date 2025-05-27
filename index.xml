@@ -6,7 +6,18 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Isolation and Recovery Control in Multi-Tenant Environments: Can You Really Keep &#39;Other People&#39;s Data&#39; Safe?</title>
+      <link>https://www.aurreum.com/posts/post-31/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-31/</guid>
+      <description>As cloud computing, big data platforms, and SaaS services become mainstream, multi-tenant architecture has emerged as a cost-effective and scalable solution for serving multiple customers or internal business units. But with shared infrastructure comes a pressing question:
+When data from different tenants resides on the same system, can you truly ensure that each tenant&amp;rsquo;s data remains separate, secure, and recoverable?
+That’s where data isolation and recovery control in multi-tenant environments becomes critical—not just for compliance, but for trust.</description>
+    </item>
+    
     <item>
       <title>Backup vs. Archiving: Do You Really Understand the Difference?</title>
       <link>https://www.aurreum.com/posts/post-30/</link>
