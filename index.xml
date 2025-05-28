@@ -6,7 +6,18 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Deduplication and Intelligent Compression: How to Protect More with Less Storage</title>
+      <link>https://www.aurreum.com/posts/post-32/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-32/</guid>
+      <description>As enterprises accelerate their digital transformation, data is growing at an exponential rate. Files, databases, VM snapshots, logs, user activity records-data accumulates by the minute. At the same time, the demand for robust data protection is rising:
+&amp;ldquo;We need to back up everything, recover it fast, isolate it safely-and do it all with less cost.&amp;rdquo;
+This is where data deduplication and intelligent compression come into play. These technologies allow organizations to store less while protecting more-efficiently and intelligently.</description>
+    </item>
+    
     <item>
       <title>Data Isolation and Recovery Control in Multi-Tenant Environments: Can You Really Keep &#39;Other People&#39;s Data&#39; Safe?</title>
       <link>https://www.aurreum.com/posts/post-31/</link>
