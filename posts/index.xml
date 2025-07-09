@@ -6,7 +6,20 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In Data Protection, the Real Risk Isn&#39;t &#39;No Backup&#39; - It&#39;s &#39;Backup That Can&#39;t Be Recovered&#39;</title>
+      <link>https://www.aurreum.com/posts/post-33/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-33/</guid>
+      <description>When it comes to data protection, what&amp;rsquo;s the worst nightmare for an enterprise?
+Not &amp;ldquo;no backup&amp;rdquo;, but rather:
+Thinking you have a backup only to find it can&amp;rsquo;t be restored. In recent years, many organizations have been drawn to a buzzword in the disaster recovery space:
+CDP - Continuous Data Protection. Vendors often market CDP with slogans like:
+ Microsecond-level protection! Rollback anytime! Instantly recover from accidental deletions! Restore to any point in time!</description>
+    </item>
+    
     <item>
       <title>Data Deduplication and Intelligent Compression: How to Protect More with Less Storage</title>
       <link>https://www.aurreum.com/posts/post-32/</link>
