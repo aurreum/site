@@ -6,7 +6,19 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moving to the Cloud ≠ Absolute Safety</title>
+      <link>https://www.aurreum.com/posts/post-34/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-34/</guid>
+      <description>Why Shared Responsibility Doesn&amp;rsquo;t Mean Full Protection Have you ever heard someone say this?
+&amp;ldquo;Don&amp;rsquo;t worry, our data is already on the cloud. What could possibly go wrong?&amp;rdquo;
+But when something does go wrong, reality hits hard:
+ No one is liable for your lost data. Worse, you might not be able to recover it.  Cloud providers secure the infrastructure, but you are responsible for the safety of your data-its privacy, integrity, and recoverability.</description>
+    </item>
+    
     <item>
       <title>In Data Protection, the Real Risk Isn&#39;t &#39;No Backup&#39; - It&#39;s &#39;Backup That Can&#39;t Be Recovered&#39;</title>
       <link>https://www.aurreum.com/posts/post-33/</link>
