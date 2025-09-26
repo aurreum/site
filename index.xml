@@ -6,7 +6,17 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zero Trust Architecture and Backup Security: Should Backups Be Trusted?</title>
+      <link>https://www.aurreum.com/posts/post-36/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-36/</guid>
+      <description>In the world of cybersecurity, &amp;ldquo;Zero Trust&amp;rdquo; has evolved from a buzzword into a core enterprise security strategy. The principle is simple: never trust, always verify. No user, device, or system-whether inside or outside the corporate network-should be trusted by default. Every request must be authenticated and authorized.
+While organizations are increasingly applying Zero Trust to applications, networks, and identity management, one critical area is often overlooked: the backup system.</description>
+    </item>
+    
     <item>
       <title>Demystifying Data Backup, Synchronization, Archiving, and Migration</title>
       <link>https://www.aurreum.com/posts/post-35/</link>
