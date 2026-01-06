@@ -6,7 +6,17 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Protection in the AI Era: It’s Not Just About Preventing Leaks-It’s About Recoverability</title>
+      <link>https://www.aurreum.com/posts/post-39/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-39/</guid>
+      <description>AI is rapidly entering every part of the enterprise: customer service, knowledge bases, engineering, IT operations, sales, and more. Yet many teams still think about &amp;ldquo;AI data protection&amp;rdquo; in traditional terms-protect the database, protect files, protect cloud workloads.
+The problem is that AI expands the data boundary, multiplies data forms, and introduces failure modes that don&amp;rsquo;t look like classic outages. In AI systems, what you need to protect isn&amp;rsquo;t only &amp;ldquo;source data.</description>
+    </item>
+    
     <item>
       <title>Backup ≠ Disaster Recovery: The Blind Spots in Enterprise Data Protection</title>
       <link>https://www.aurreum.com/posts/post-38/</link>
