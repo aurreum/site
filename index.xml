@@ -6,7 +6,17 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid and Multi-Cloud: Why a Cloud Provider’s Promises Don’t Equal Your Data Security</title>
+      <link>https://www.aurreum.com/posts/post-40/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-40/</guid>
+      <description>After moving to the cloud, many companies develop a &amp;ldquo;psychological sense of safety&amp;rdquo;: the provider offers SLAs, stores multiple copies, and runs professional data centers-so our data should be safe, right?
+In reality, it&amp;rsquo;s often the opposite. What cloud providers typically promise is &amp;ldquo;platform availability and infrastructure security.&amp;rdquo; But &amp;ldquo;your data recoverability, recovery after accidental deletion or ransomware, unified cross-cloud policies, and auditability&amp;rdquo; remain largely your responsibility. This is explicitly reflected in the cloud shared responsibility model: regardless of SaaS/PaaS/IaaS, customers are always responsible for their data and identities-the boundary simply shifts with the service type.</description>
+    </item>
+    
     <item>
       <title>Data Protection in the AI Era: It’s Not Just About Preventing Leaks-It’s About Recoverability</title>
       <link>https://www.aurreum.com/posts/post-39/</link>
