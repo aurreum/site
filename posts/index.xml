@@ -6,7 +6,18 @@
     <description>Recent content on Aurreum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aurreum.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Protection in the AI Era: Enterprises Must Protect More Than Data - Models, Knowledge Bases, and Automated Workflows</title>
+      <link>https://www.aurreum.com/posts/post-42/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aurreum.com/posts/post-42/</guid>
+      <description>In the past, when enterprises talked about data protection, the focus was usually on databases, files, virtual machines, servers, and critical business systems. As long as these core data assets could be backed up and recovered, companies often believed they had a certain level of disaster recovery capability.
+But in the AI era, this judgment is no longer enough.
+As large AI models, enterprise knowledge bases, intelligent customer service, automated workflows, data analytics platforms, and AI agents are increasingly adopted in real business scenarios, the objects that enterprises need to protect are no longer limited to &amp;ldquo;data itself.</description>
+    </item>
+    
     <item>
       <title>Why an Integrated Backup Appliance Is the Best Fit for Teams That Need Faster Recovery and Less Ops Overhead</title>
       <link>https://www.aurreum.com/posts/post-41/</link>
